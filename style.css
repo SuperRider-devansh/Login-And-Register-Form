@@ -1,0 +1,86 @@
+
+div.transbox {
+  margin: auto;
+    padding: 50px;
+  background-color: #ffffff;
+  border: 1px solid black;
+  opacity: 0.5;
+   width: 400px;
+}
+
+#name {
+    font-weight: bolder;
+    text-align: center;
+    font-size: 20px;   
+}
+
+#name2 {
+    border-radius: 20px;
+    text-align: center;
+    font-size: 20px;
+    color: indianred;
+}
+
+#h1 {
+    text-align: center;
+    font-size: 35px;
+}
+
+form {
+    text-align: center;
+}
+
+#password {
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+#password2 {
+    border-radius: 20px;
+    text-align: center;
+    font-size: 20px;
+    color: indianred;
+}
+
+u {
+    color: crimson;
+}
+
+button {
+    border-radius: 10px;
+    width: 400px;
+    font-size: 25px;
+    background-color: #ffcad4;
+    color: maroon;
+}
+
+a {
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+#Email {
+    font-weight: bolder;
+    text-align: center;
+    font-size: 20px;   
+}
+
+#Email2 {
+    border-radius: 20px;
+    text-align: center;
+    font-size: 20px;
+    color: indianred;
+}
+
+#number {
+    font-weight: bolder;
+    text-align: center;
+    font-size: 20px;   
+}
+
+#number2 {
+    border-radius: 20px;
+    text-align: center;
+    font-size: 20px;
+    color: indianred;
+}
